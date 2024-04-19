@@ -20,8 +20,12 @@ back-end development and building interactive applications with React.js.
 📚 **Projects:**
 
 * You can find some of my projects in the repositories below:
+    * https://github.com/rohanvron/CardMaker
+      - CardMaker is a Vite + React application designed to provide users with a platform to create and customize digital profiles 🎴. built using React, JavaScript (jsx), Html, Css.
+
     * https://github.com/rohanvron/Rock-Paper-Scissors 
       - This is a simple and interactive Rock Paper Scissors game 🎮 built using HTML, CSS, and JavaScript.
+
     * https://github.com/rohanvron/MoviezHub---Online-Movie-Ticket-Booking-App 
       - MoviezHub is a Mobile Application 📱 basically made for providing the customers an anytime and anywhere service for booking cinema tickets and providing information about the movies and their schedule online.
 
