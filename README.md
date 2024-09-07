@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Rohan Verma, a web developer 👨🏻‍💻 with 1 year of experience building user-centric web applications. Skilled in front-end development utilizing HTML, CSS, and JavaScript. Possess additional experience in content management systems (WordPress 🌐), data visualization (Power BI Desktop 📊), and automation (Power Automate / Desktop 🤖). Currently expanding my skillset to encompass back-end development and building interactive applications with React.js.<br><br>📈 I'm currently learning and exploring:<br><br>Back-End Development<br>React.js for building interactive web applications
+I'm an experienced Web Developer. I hold a bachelor's degree in computer science and have gained 1.4 years of industry experience. Throughout my career, I've developed strong skills in JavaScript, Html, CSS, React, Node.js and MERN Stack, along with good knowledge of front-end & back-end development. My diverse experience includes creating custom web solutions, working on automation projects, and developing full-stack applications, all of which have prepared me for roles in development.
 
 
 ## 🌐 Socials:
