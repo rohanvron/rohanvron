@@ -26,7 +26,7 @@ const rohan = {
 };
 ```
 
-I'm a software developer who enjoys the full stack — from wiring up SAP integrations and debugging SSL certs in production, to designing pixel-perfect React dashboards. Currently keeping **ROBOS**, a vendor-facing chatbot for Hindustan Zinc Limited, running smoothly in production.
+I'm a software developer who enjoys the full stack, from wiring up SAP integrations and debugging SSL certs in production, to designing pixel-perfect React dashboards. Currently keeping **ROBOS**, a vendor-facing chatbot for Hindustan Zinc Limited, running smoothly in production.
 
 ---
 
@@ -87,7 +87,7 @@ I'm a software developer who enjoys the full stack — from wiring up SAP integr
 
 **📊 Report Portal**
 <br/>
-Multi-tenant SaaS analytics platform that automated 100% manual social reporting across 4 platforms — with a config-swappable AI chatbot (Claude / OpenAI / Gemini) answering natural-language queries on client data.
+Multi-tenant SaaS analytics platform that automated 100% manual social reporting across 4 platforms - with a config-swappable AI chatbot (Claude / OpenAI / Gemini) answering natural-language queries on client data.
 
 `FastAPI` `React` `TypeScript` `SQLite` `ReportLab` `JWT`
 
@@ -116,7 +116,7 @@ Real-time chat app with WebSocket messaging, JWT auth, and a responsive MERN-sta
 
 **🤖 ROBOS**
 <br/>
-Vendor-facing chatbot for Hindustan Zinc Limited, integrated with SAP via OData APIs — keeping invoice, payment & grievance modules running in production.
+Vendor-facing chatbot for Hindustan Zinc Limited, integrated with SAP via OData APIs - keeping invoice, payment & grievance modules running in production.
 
 `SAP OData` `SSL/Cert Mgmt` `API Debugging`
 
@@ -141,9 +141,9 @@ Vendor-facing chatbot for Hindustan Zinc Limited, integrated with SAP via OData 
 
 ### 🎓 Education & Certifications
 
-- 🏫 **B.Sc. Computer Science** — Mumbai University (CGPA: 8.41), 2022
-- 📜 React JS — Scaler
-- 📜 Introduction to MERN Stack — Simplilearn
+- 🏫 **B.Sc. Computer Science** - Mumbai University (CGPA: 8.41), 2022
+- 📜 React JS - Scaler
+- 📜 Introduction to MERN Stack - Simplilearn
 
 ---
 
